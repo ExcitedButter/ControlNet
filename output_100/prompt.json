@@ -1,0 +1,502 @@
+[
+    {
+        "source": "source/1.jpg",
+        "target": "target/1.jpg",
+        "prompt": "withdraw screw"
+    },
+    {
+        "source": "source/2.jpg",
+        "target": "target/2.jpg",
+        "prompt": "push game_card"
+    },
+    {
+        "source": "source/3.jpg",
+        "target": "target/3.jpg",
+        "prompt": "insert mounting_peg"
+    },
+    {
+        "source": "source/4.jpg",
+        "target": "target/4.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/5.jpg",
+        "target": "target/5.jpg",
+        "prompt": "press battery"
+    },
+    {
+        "source": "source/6.jpg",
+        "target": "target/6.jpg",
+        "prompt": "place nintendo_switch"
+    },
+    {
+        "source": "source/7.jpg",
+        "target": "target/7.jpg",
+        "prompt": "place joy_con_controller"
+    },
+    {
+        "source": "source/8.jpg",
+        "target": "target/8.jpg",
+        "prompt": "inspect mounting_peg"
+    },
+    {
+        "source": "source/9.jpg",
+        "target": "target/9.jpg",
+        "prompt": "push kickstand"
+    },
+    {
+        "source": "source/10.jpg",
+        "target": "target/10.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/11.jpg",
+        "target": "target/11.jpg",
+        "prompt": "press joy_con_controller"
+    },
+    {
+        "source": "source/12.jpg",
+        "target": "target/12.jpg",
+        "prompt": "insert screw"
+    },
+    {
+        "source": "source/13.jpg",
+        "target": "target/13.jpg",
+        "prompt": "grab joy_con_controller"
+    },
+    {
+        "source": "source/14.jpg",
+        "target": "target/14.jpg",
+        "prompt": "lift battery"
+    },
+    {
+        "source": "source/15.jpg",
+        "target": "target/15.jpg",
+        "prompt": "flip nintendo_switch"
+    },
+    {
+        "source": "source/16.jpg",
+        "target": "target/16.jpg",
+        "prompt": "place battery"
+    },
+    {
+        "source": "source/17.jpg",
+        "target": "target/17.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/18.jpg",
+        "target": "target/18.jpg",
+        "prompt": "insert sd_card"
+    },
+    {
+        "source": "source/19.jpg",
+        "target": "target/19.jpg",
+        "prompt": "insert game_card"
+    },
+    {
+        "source": "source/20.jpg",
+        "target": "target/20.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/21.jpg",
+        "target": "target/21.jpg",
+        "prompt": "place comfort_grip"
+    },
+    {
+        "source": "source/22.jpg",
+        "target": "target/22.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/23.jpg",
+        "target": "target/23.jpg",
+        "prompt": "flip joy_con_controller"
+    },
+    {
+        "source": "source/24.jpg",
+        "target": "target/24.jpg",
+        "prompt": "rotate nintendo_switch"
+    },
+    {
+        "source": "source/25.jpg",
+        "target": "target/25.jpg",
+        "prompt": "flip comfort_grip"
+    },
+    {
+        "source": "source/26.jpg",
+        "target": "target/26.jpg",
+        "prompt": "grab battery"
+    },
+    {
+        "source": "source/27.jpg",
+        "target": "target/27.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/28.jpg",
+        "target": "target/28.jpg",
+        "prompt": "pull battery_door"
+    },
+    {
+        "source": "source/29.jpg",
+        "target": "target/29.jpg",
+        "prompt": "flip nintendo_switch"
+    },
+    {
+        "source": "source/30.jpg",
+        "target": "target/30.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/31.jpg",
+        "target": "target/31.jpg",
+        "prompt": "flip nintendo_switch"
+    },
+    {
+        "source": "source/32.jpg",
+        "target": "target/32.jpg",
+        "prompt": "assemble handheld_grip"
+    },
+    {
+        "source": "source/33.jpg",
+        "target": "target/33.jpg",
+        "prompt": "flip nintendo_switch"
+    },
+    {
+        "source": "source/34.jpg",
+        "target": "target/34.jpg",
+        "prompt": "flip comfort_grip"
+    },
+    {
+        "source": "source/35.jpg",
+        "target": "target/35.jpg",
+        "prompt": "rotate nintendo_switch"
+    },
+    {
+        "source": "source/36.jpg",
+        "target": "target/36.jpg",
+        "prompt": "align handheld_grip"
+    },
+    {
+        "source": "source/37.jpg",
+        "target": "target/37.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/38.jpg",
+        "target": "target/38.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/39.jpg",
+        "target": "target/39.jpg",
+        "prompt": "place joy_con_controller"
+    },
+    {
+        "source": "source/40.jpg",
+        "target": "target/40.jpg",
+        "prompt": "withdraw joy_con_controller"
+    },
+    {
+        "source": "source/41.jpg",
+        "target": "target/41.jpg",
+        "prompt": "insert sd_card"
+    },
+    {
+        "source": "source/42.jpg",
+        "target": "target/42.jpg",
+        "prompt": "flip joy_con_controller"
+    },
+    {
+        "source": "source/43.jpg",
+        "target": "target/43.jpg",
+        "prompt": "pull sd_card"
+    },
+    {
+        "source": "source/44.jpg",
+        "target": "target/44.jpg",
+        "prompt": "unscrew screw"
+    },
+    {
+        "source": "source/45.jpg",
+        "target": "target/45.jpg",
+        "prompt": "flip comfort_grip"
+    },
+    {
+        "source": "source/46.jpg",
+        "target": "target/46.jpg",
+        "prompt": "inspect nintendo_switch"
+    },
+    {
+        "source": "source/47.jpg",
+        "target": "target/47.jpg",
+        "prompt": "press button"
+    },
+    {
+        "source": "source/48.jpg",
+        "target": "target/48.jpg",
+        "prompt": "insert joy_con_controller"
+    },
+    {
+        "source": "source/49.jpg",
+        "target": "target/49.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/50.jpg",
+        "target": "target/50.jpg",
+        "prompt": "push battery_door"
+    },
+    {
+        "source": "source/51.jpg",
+        "target": "target/51.jpg",
+        "prompt": "drop strap"
+    },
+    {
+        "source": "source/52.jpg",
+        "target": "target/52.jpg",
+        "prompt": "lift nintendo_switch"
+    },
+    {
+        "source": "source/53.jpg",
+        "target": "target/53.jpg",
+        "prompt": "pull gopro"
+    },
+    {
+        "source": "source/54.jpg",
+        "target": "target/54.jpg",
+        "prompt": "inspect nintendo_switch"
+    },
+    {
+        "source": "source/55.jpg",
+        "target": "target/55.jpg",
+        "prompt": "press joy_con_controller"
+    },
+    {
+        "source": "source/56.jpg",
+        "target": "target/56.jpg",
+        "prompt": "align handheld_grip"
+    },
+    {
+        "source": "source/57.jpg",
+        "target": "target/57.jpg",
+        "prompt": "grab battery"
+    },
+    {
+        "source": "source/58.jpg",
+        "target": "target/58.jpg",
+        "prompt": "pull mounting_peg"
+    },
+    {
+        "source": "source/59.jpg",
+        "target": "target/59.jpg",
+        "prompt": "hold button"
+    },
+    {
+        "source": "source/60.jpg",
+        "target": "target/60.jpg",
+        "prompt": "grab battery"
+    },
+    {
+        "source": "source/61.jpg",
+        "target": "target/61.jpg",
+        "prompt": "insert joy_con_controller"
+    },
+    {
+        "source": "source/62.jpg",
+        "target": "target/62.jpg",
+        "prompt": "insert battery"
+    },
+    {
+        "source": "source/63.jpg",
+        "target": "target/63.jpg",
+        "prompt": "open battery_door"
+    },
+    {
+        "source": "source/64.jpg",
+        "target": "target/64.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/65.jpg",
+        "target": "target/65.jpg",
+        "prompt": "inspect joy_con_controller"
+    },
+    {
+        "source": "source/66.jpg",
+        "target": "target/66.jpg",
+        "prompt": "withdraw screw"
+    },
+    {
+        "source": "source/67.jpg",
+        "target": "target/67.jpg",
+        "prompt": "insert joy_con_controller"
+    },
+    {
+        "source": "source/68.jpg",
+        "target": "target/68.jpg",
+        "prompt": "push battery_door"
+    },
+    {
+        "source": "source/69.jpg",
+        "target": "target/69.jpg",
+        "prompt": "grab handheld_grip"
+    },
+    {
+        "source": "source/70.jpg",
+        "target": "target/70.jpg",
+        "prompt": "rotate nintendo_switch"
+    },
+    {
+        "source": "source/71.jpg",
+        "target": "target/71.jpg",
+        "prompt": "inspect nintendo_switch"
+    },
+    {
+        "source": "source/72.jpg",
+        "target": "target/72.jpg",
+        "prompt": "push battery_door"
+    },
+    {
+        "source": "source/73.jpg",
+        "target": "target/73.jpg",
+        "prompt": "withdraw sd_card"
+    },
+    {
+        "source": "source/74.jpg",
+        "target": "target/74.jpg",
+        "prompt": "grab nintendo_switch"
+    },
+    {
+        "source": "source/75.jpg",
+        "target": "target/75.jpg",
+        "prompt": "hold button"
+    },
+    {
+        "source": "source/76.jpg",
+        "target": "target/76.jpg",
+        "prompt": "open battery_door"
+    },
+    {
+        "source": "source/77.jpg",
+        "target": "target/77.jpg",
+        "prompt": "rotate joy_con_controller"
+    },
+    {
+        "source": "source/78.jpg",
+        "target": "target/78.jpg",
+        "prompt": "flip comfort_grip"
+    },
+    {
+        "source": "source/79.jpg",
+        "target": "target/79.jpg",
+        "prompt": "rotate nintendo_switch"
+    },
+    {
+        "source": "source/80.jpg",
+        "target": "target/80.jpg",
+        "prompt": "press button"
+    },
+    {
+        "source": "source/81.jpg",
+        "target": "target/81.jpg",
+        "prompt": "assemble joy_con_controller"
+    },
+    {
+        "source": "source/82.jpg",
+        "target": "target/82.jpg",
+        "prompt": "open kickstand"
+    },
+    {
+        "source": "source/83.jpg",
+        "target": "target/83.jpg",
+        "prompt": "place nintendo_switch"
+    },
+    {
+        "source": "source/84.jpg",
+        "target": "target/84.jpg",
+        "prompt": "inspect comfort_grip"
+    },
+    {
+        "source": "source/85.jpg",
+        "target": "target/85.jpg",
+        "prompt": "lift comfort_grip"
+    },
+    {
+        "source": "source/86.jpg",
+        "target": "target/86.jpg",
+        "prompt": "insert joy_con_controller"
+    },
+    {
+        "source": "source/87.jpg",
+        "target": "target/87.jpg",
+        "prompt": "withdraw sd_card"
+    },
+    {
+        "source": "source/88.jpg",
+        "target": "target/88.jpg",
+        "prompt": "insert joy_con_controller"
+    },
+    {
+        "source": "source/89.jpg",
+        "target": "target/89.jpg",
+        "prompt": "rotate nintendo_switch"
+    },
+    {
+        "source": "source/90.jpg",
+        "target": "target/90.jpg",
+        "prompt": "pull battery_door"
+    },
+    {
+        "source": "source/91.jpg",
+        "target": "target/91.jpg",
+        "prompt": "hold gopro"
+    },
+    {
+        "source": "source/92.jpg",
+        "target": "target/92.jpg",
+        "prompt": "close kickstand"
+    },
+    {
+        "source": "source/93.jpg",
+        "target": "target/93.jpg",
+        "prompt": "pull battery"
+    },
+    {
+        "source": "source/94.jpg",
+        "target": "target/94.jpg",
+        "prompt": "close battery_door"
+    },
+    {
+        "source": "source/95.jpg",
+        "target": "target/95.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/96.jpg",
+        "target": "target/96.jpg",
+        "prompt": "rotate gopro"
+    },
+    {
+        "source": "source/97.jpg",
+        "target": "target/97.jpg",
+        "prompt": "grab screw"
+    },
+    {
+        "source": "source/98.jpg",
+        "target": "target/98.jpg",
+        "prompt": "grab screw"
+    },
+    {
+        "source": "source/99.jpg",
+        "target": "target/99.jpg",
+        "prompt": "withdraw joy_con_controller"
+    },
+    {
+        "source": "source/100.jpg",
+        "target": "target/100.jpg",
+        "prompt": "grab screw"
+    }
+]

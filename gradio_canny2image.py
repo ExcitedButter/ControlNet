@@ -31,6 +31,7 @@ def process(input_image, prompt, a_prompt, n_prompt, num_samples, image_resoluti
         detected_map = apply_canny(img, low_threshold, high_threshold)
         detected_map = HWC3(detected_map)
 
+        #将边缘图转化为张量，并归一化到[0, 1]区间
         control = torch.from_numpy(detected_map.copy()).float().cuda() / 255.0
         control = torch.stack([control for _ in range(num_samples)], dim=0)
         control = einops.rearrange(control, 'b h w c -> b c h w').clone()
